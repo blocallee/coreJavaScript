@@ -37,11 +37,11 @@ Rule 😎
 
 | <center>큰 제목</center>      | <center>작은 제목</center>     | <center>페이지</center> |   <center>작성자</center>    | <center>완료</center> |
 | ----------------------------- | ------------------------------ | :---------------------: | :--------------------------: | :-------------------: |
-| 데이터 타입의 종류            |                                |            1            |      [Local][datatype]       |          ✔️           |
-| 데이터 타입의 관한 배경지식   | 메모리와 데이터                |            3            |    [Local][memoryanddata]    |          ✔️           |
-|                               | 식별자와 변수                  |            3            | [Local][variableidentifier]  |          ✔️           |
-| 변수 선언과 데이터 할당       | 변수 선언                      |            5            | [Local][declaringvariables]  |          ✔️           |
-|                               | 데이터 할당                    |            6            | [Local][evaluatingvariables] |          ✔️           |
+| 데이터 타입의 종류            |                                |            1            |      [Local][datatype]       |  :heavy_check_mark:   |
+| 데이터 타입의 관한 배경지식   | 메모리와 데이터                |            3            |    [Local][memoryanddata]    |  :heavy_check_mark:   |
+|                               | 식별자와 변수                  |            3            | [Local][variableidentifier]  |  :heavy_check_mark:   |
+| 변수 선언과 데이터 할당       | 변수 선언                      |            5            | [Local][declaringvariables]  |  :heavy_check_mark:   |
+|                               | 데이터 할당                    |            6            | [Local][evaluatingvariables] |  :heavy_check_mark:   |
 | 기본형 데이터와 참조형 데이터 | 불변값                         |            8            |       [Santos][santos]       |                       |
 |                               | 가변값                         |           10            |       [Santos][santos]       |                       |
 |                               | 변수 복사 비교                 |           15            |       [Santos][santos]       |                       |
